@@ -11,5 +11,8 @@ This is a quiz app that tests your general knowledge by using questions and (tru
 # Demo about this app:
 
 
-https://user-images.githubusercontent.com/86231584/149677500-cce15e7c-3371-420e-936f-cf199fc915c6.mp4
+
+
+https://user-images.githubusercontent.com/86231584/149677669-5eb09f4e-0842-43a0-91a8-7a112a1394e2.mp4
+
 
